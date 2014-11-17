@@ -1,4 +1,4 @@
-#Training:  Memory
+#algo Training:  Memory
 
 Tenemos una aplicación muy simple. Queremos saber que tendencia tiene el usuario para swipear la pantalla.
 En cada swipe, se cambiará de pantalla y por detrás la aplicación trackeará el nombre del color al cual fue. 
